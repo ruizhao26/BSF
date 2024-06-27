@@ -1,4 +1,4 @@
-## [CVPR 2024] Boosting Spike Camera Image Reconstruction from a Perspective of\\Dealing with Spike Fluctuations
+## [CVPR 2024] Boosting Spike Camera Image Reconstruction from a Perspective of Dealing with Spike Fluctuations
 
 <h4 align="center"> Rui Zhao<sup>1,2</sup>, Ruiqin Xiong<sup>1,2</sup>, Jing Zhao<sup>1,2</sup>, Jian Zhang<sup>3</sup>, Xiaopeng Fan<sup>4</sup>, Zhaofei Yu<sup>1,2</sup>, Tiejun Huang<sup>1,2</sup> </h4>
 <h4 align="center">1. School of Computer Science, Peking University<br>

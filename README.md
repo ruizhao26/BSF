@@ -80,7 +80,7 @@ CUDA_VISIBLE_DEVICES=$1 python3 -W ignore main.py \
 
 ## Citations
 
-If you find this code useful in your research, please consider citing our paper. AAAI version:
+If you find this code useful in your research, please consider citing our paper:
 
 ```
 @inproceedings{zhao2024boosting,
